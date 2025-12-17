@@ -1,0 +1,11 @@
+# Her şeyi yoksay
+/*
+
+# Sadece bu klasörleri dahil et
+!/14. Ünite/
+!/15. Ünite/
+!/16. Ünite/
+!/18. Ünite/
+
+# .gitignore dosyasının kendisini de dahil et
+!/.gitignore
